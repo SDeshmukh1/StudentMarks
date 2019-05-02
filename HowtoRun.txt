@@ -1,0 +1,48 @@
+To Run this code run the file RunFromHere.java
+
+Sample Output Provided as below
+
+Please Enter Student`s Name
+Shubham
+Please Enter Student`s Roll Number
+1
+
+ For How many years you want to enter the data
+3
+
+Please enter year
+2017
+
+Enter the marks with you have received in Maths
+1
+
+Enter the marks with you have received in Science
+2
+
+Enter the marks with you have received in Physics
+3
+
+Please enter year
+2019
+
+Enter the marks with you have received in Maths
+4
+
+Enter the marks with you have received in Science
+5
+
+Enter the marks with you have received in Physics
+6
+
+Please enter year
+2019
+
+Enter the marks with you have received in Maths
+7
+
+Enter the marks with you have received in Science
+8
+
+Enter the marks with you have received in Physics
+9
+{student [Name=Shubham, roll_no=1]={2017=Marks [maths=1, science=2, physics=3], 2019=Marks [maths=7, science=8, physics=9]}}
